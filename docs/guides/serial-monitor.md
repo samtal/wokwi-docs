@@ -95,7 +95,7 @@ The default configuration is as follows:
 }
 ```
 
-When you add a  `"serialMonitor"` section, either add it after the last item in diagram.json, or make sure to add a comma after the closing curly brace. You can find a complete example [here](https://wokwi.com/projects/308893120796295745).
+When you add a  `"serialMonitor"` section, add it after the last item in diagram.json and make sure to add a comma after the previous closing curly brace. You can find a complete example [here](https://wokwi.com/projects/308893120796295745).
 
 ### Display
 
